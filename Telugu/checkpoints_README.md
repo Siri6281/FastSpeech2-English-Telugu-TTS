@@ -1,0 +1,1 @@
+The Telugu speech samples were generated with a third-party pretrained multilingual FastSpeech2 checkpoint. This is not a checkpoint trained from scratch for this assignment. See https://github.com/utkarsh2299/Fastspeech2_HS

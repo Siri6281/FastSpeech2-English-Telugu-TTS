@@ -27,3 +27,11 @@ The pretrained model is from the Speech Technology Consortium/Bhashini ecosystem
 
 ## Repository
 https://github.com/Siri6281/FastSpeech2-English-Telugu-TTS
+
+
+## Submitted artifacts
+- English and Telugu test audio files are under Results/.
+- Telugu variance-adaptor plots and prediction arrays are under Results/Telugu/.
+- Technical report: Report/Technical_Report.pdf.
+- Large datasets/checkpoints are referenced externally or excluded due to size.
+- See language-specific READMEs for implementation status and limitations.

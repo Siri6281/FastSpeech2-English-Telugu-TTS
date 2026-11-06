@@ -1,0 +1,13 @@
+torch
+torchaudio
+espnet
+numpy
+scipy
+matplotlib
+PyYAML
+soundfile
+librosa
+pyworld
+g2p-en
+Unidecode
+nltk
